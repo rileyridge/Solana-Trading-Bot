@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rileyridge.github.io/Solana-Trading-Bot/sitemap.xml
